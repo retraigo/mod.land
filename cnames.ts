@@ -78,6 +78,9 @@ export default <CNAMEs> {
   "dyno": {
     target: "dynoland.netlify.app",
   },
+  "fortuna": {
+    target: "fortuna-gacha.netlify.app",
+  },
   "gabry": {
     target: "gabry-site-production.up.railway.app",
   },
